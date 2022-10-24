@@ -69,8 +69,8 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
 global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.namebot = 'WH-𝚜𝚎𝚑𝚊𝚜►-BOT-V1'
+global.nameown = 'WH 𝗦𝗲𝗵𝗮𝘀 DEV'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 𝚂𝙴𝙷𝙰𝚂 𝙼𝙳 𝚅4 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝚂𝙴𝙷𝙰𝚂 𝙼𝙳 𝚅4˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝚂𝙴𝙷𝙰𝚂 𝙼𝙳 𝚅4 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「𝚂𝙴𝙷𝙰𝚂 𝙼𝙳 𝚅4  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
