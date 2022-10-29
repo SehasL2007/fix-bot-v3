@@ -68,7 +68,7 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
+global.nomorown = '94723121331'
 global.namebot = 'WH-𝚜𝚎𝚑𝚊𝚜►-BOT-V1'
 global.nameown = 'WH 𝗦𝗲𝗵𝗮𝘀 DEV'
 
